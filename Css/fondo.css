@@ -1,0 +1,13 @@
+#titulo:hover {
+    color :rgb(255, 0, 0);
+}
+#fotoperfil:hover {
+    color :yellow
+}
+
+body{
+    background-image: url("/Multimedia/imagenes/ajuji_aju-1662749771701059584-20230528_041652-img1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
